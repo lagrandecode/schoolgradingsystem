@@ -129,4 +129,4 @@ public class SchoolGradingSystem {
             }
         } while (choice != 6); // Loop until the user chooses to exit
     }
-}
+}\\
